@@ -54,4 +54,4 @@ Access Locust at `http://localhost:8089`.
 
 ## Demo Video
 
-[Link to YouTube Demo] (To be added)
+[https://www.bugufi.link/cUGv6e] YouTube Demo
