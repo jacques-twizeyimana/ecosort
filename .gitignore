@@ -1,0 +1,13 @@
+# Ignore large data & models
+uploaded/
+data/
+*.onnx
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
